@@ -39,3 +39,21 @@
     width: 100px;
 
 }
+.card{
+    border: none;
+    box-shadow: 5px 5px 20px;
+}
+
+.card-footer{
+    border-top: none;
+    background-color: #fff;
+}
+#subscribe{
+   
+    background-color: #fceae8;
+    height: 300px;
+    
+}
+#subscribe h6{
+    color: gray;
+}
